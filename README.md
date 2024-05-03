@@ -1,2 +1,2 @@
 # app-automation
- Automation for Aspects of Job Applications
+# Automation for Aspects of Job Applications
